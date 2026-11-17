@@ -49,5 +49,3 @@ Proqram 100, 1 000 və 10 000 element üzərində vaxtı ölçür. Massivlər v�
 | Queue və Deque-də ucdan işləmə | O(1) |
 | Hash cədvəlində axtarış | Orta O(1), ən pis halda O(n) |
 | BST-də axtarış | O(h), burada h ağacın hündürlüyüdür |
-
-Layihə [DSAGroupFreeWork](https://github.com/zeIbdo/DSAGroupFreeWork) nümunəsi əsasında hazırlanıb.
